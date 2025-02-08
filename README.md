@@ -1,34 +1,30 @@
-<h1 align="center">مرحبًا، أنا أحمد الحديــدي 👋</h1>
+# مرحباً، أنا أحمد الحديدي! 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
-</p>
+## 🚀 من أنا؟
+أنا مطور واعشق البرمجة والتعلم. بحب أشارك معرفتي مع الآخرين وأتعلم من تجاربهم.
 
-<h3 align="center">👨‍💻 مطور واجهات أمامية | متخصص في Angular</h3>
+## 🔧 المهارات والتقنيات
+- 💻 **اللغات:** JavaScript, HTML, CSS, TypeScript
+- 🛠 **الأدوات:** Git, VS Code, Docker
+- 🌐 **الإطارات والتقنيات:** Angular, Bootstrap, WordPress
 
-<p align="center">
-  🚀 أحب بناء تطبيقات ويب تفاعلية  
-  🔥 أتعلم Firebase مع Angular  
-</p>
+## 📊 إحصائيات GitHub
+![إحصائيات GitHub](https://github-readme-stats.vercel.app/api?username=Ahmed-Elhadidy20&show_icons=true&theme=radical)
+
+![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elhadidy20&layout=compact&theme=radical)
+
+## 🌟 المشاريع
+- [Portfolio](https://my-portfolio-e4e2c.web.app) - موقعي الشخصي لعرض أعمالي ومهاراتي.
+
+## 📫 تواصل معي
+- [GitHub](https://github.com/Ahmed-Elhadidy20)
+- [LinkedIn](https://www.linkedin.com/in/ahmed-elhadidy-39724b16b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](mailto:aalhdidy4@gmail.com)
+
+## 🎉 حقائق ممتعة
+- ⚡ Fun fact: أنا أحب القهوة أكثر من أي شيء آخر!
+- 🌍 أسافر وأتعلم من الثقافات المختلفة.
 
 ---
 
-### 🛠 التقنيات التي أستخدمها:
-<p align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📫 تواصل معي:
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-elhadidy-39724b16b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ahmed-Elhadidy20">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ahmed-Elhadidy20.Ahmed-Elhadidy20)
