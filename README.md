@@ -18,7 +18,7 @@
 
 ## 📫 تواصل معي
 - [GitHub](https://github.com/Ahmed-Elhadidy20)
-- [LinkedIn](https://www.linkedin.com/in/ahmed-elhadidy-39724b16b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fahmed-elhdidy-81307035a%3Futm_source%3Dshare%26utm_campaign%3Dshare_via%26utm_content%3Dprofile%26utm_medium%3Dandroid_app&h=AT1bUzzQCHliZpKYHix9ri33h8kHwHeU9q8MdPKZ_r_dGbbnUjCg_MugJpHCjxE7B_8K0dPzIygcf8MpkXus_dElGmjSQqKWWRq3kgu67-qtLlcwiRzGelRqeOewvls&s=1)
 - [Email](mailto:aalhdidy4@gmail.com)
 
 ## 🎉 حقائق ممتعة
