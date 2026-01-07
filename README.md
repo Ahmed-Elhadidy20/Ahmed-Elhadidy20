@@ -14,7 +14,7 @@
 ![أكثر اللغات استخداماً](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elhadidy20&layout=compact&theme=radical)
 
 ## 🌟 المشاريع
-- [Portfolio](https://my-portfolio-e4e2c.web.app) - موقعي الشخصي لعرض أعمالي ومهاراتي.
+- [Portfolio](https://ahmed-elhadidy20.github.io/Resume-of-Ahmed-Al-Hadidi/) - موقعي الشخصي لعرض أعمالي ومهاراتي.
 
 ## 📫 تواصل معي
 - [GitHub](https://github.com/Ahmed-Elhadidy20)
